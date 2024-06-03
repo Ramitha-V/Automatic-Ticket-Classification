@@ -48,7 +48,5 @@ The project includes a Flask-based web application consisting of two webpages:
 - Customer Query Submission: A webpage where customers can submit their complaints.
 - Ticket Categorization: A webpage where tickets are categorized into relevant topics, facilitating efficient resolution by employees.
 
-<img width="420" alt="Screenshot 2024-06-03 101706" src="https://github.com/Ramitha-V/Automatic-Ticket-Classification/assets/162662008/a096abbf-deb5-4dd8-b2d9-ec15c8f687a3">
-
-<img width="420" alt="Screenshot 2024-06-03 101821" src="https://github.com/Ramitha-V/Automatic-Ticket-Classification/assets/162662008/3eb10049-d16e-4cc6-9501-6d5b0783c5cb">
-
+![Screenshot 1](https://github.com/Ramitha-V/Automatic-Ticket-Classification/assets/162662008/a096abbf-deb5-4dd8-b2d9-ec15c8f687a3)
+![Screenshot 2](https://github.com/Ramitha-V/Automatic-Ticket-Classification/assets/162662008/3eb10049-d16e-4cc6-9501-6d5b0783c5cb)
